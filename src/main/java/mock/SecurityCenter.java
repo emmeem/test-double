@@ -7,7 +7,7 @@ public class SecurityCenter {
         this.doorPanel = doorPanel;
     }
 
-    public void switchOn() {
-        doorPanel.close();
+    public int switchOn() {
+        return doorPanel.close();
     }
 }

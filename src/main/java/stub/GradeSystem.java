@@ -13,3 +13,4 @@ public class GradeSystem {
         return Arrays.asList(90.0, 95.0, 100.0); // 只是一个例子
     }
 }
+
